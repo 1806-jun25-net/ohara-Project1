@@ -1,0 +1,16 @@
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.UI.deps.json
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.UI.runtimeconfig.json
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.UI.runtimeconfig.dev.json
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.UI.dll
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.UI.pdb
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.Library.dll
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.Library.pdb
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\obj\Debug\netcoreapp2.1\PizzaLocation.UI.csprojAssemblyReference.cache
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\obj\Debug\netcoreapp2.1\PizzaLocation.UI.csproj.CoreCompileInputs.cache
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\obj\Debug\netcoreapp2.1\PizzaLocation.UI.AssemblyInfoInputs.cache
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\obj\Debug\netcoreapp2.1\PizzaLocation.UI.AssemblyInfo.cs
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\obj\Debug\netcoreapp2.1\PizzaLocation.UI.csproj.CopyComplete
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\obj\Debug\netcoreapp2.1\PizzaLocation.UI.dll
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\obj\Debug\netcoreapp2.1\PizzaLocation.UI.pdb
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.Data.dll
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.UI\bin\Debug\netcoreapp2.1\PizzaLocation.Data.pdb

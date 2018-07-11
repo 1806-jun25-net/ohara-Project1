@@ -1,0 +1,11 @@
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\bin\Debug\netcoreapp2.1\PizzaLocation.Library.deps.json
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\bin\Debug\netcoreapp2.1\PizzaLocation.Library.dll
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\bin\Debug\netcoreapp2.1\PizzaLocation.Library.pdb
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\obj\Debug\netcoreapp2.1\PizzaLocation.Library.csprojAssemblyReference.cache
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\obj\Debug\netcoreapp2.1\PizzaLocation.Library.csproj.CoreCompileInputs.cache
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\obj\Debug\netcoreapp2.1\PizzaLocation.Library.AssemblyInfoInputs.cache
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\obj\Debug\netcoreapp2.1\PizzaLocation.Library.AssemblyInfo.cs
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\obj\Debug\netcoreapp2.1\PizzaLocation.Library.dll
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\obj\Debug\netcoreapp2.1\PizzaLocation.Library.pdb
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\bin\Debug\netcoreapp2.1\PizzaLocation.Library.runtimeconfig.json
+C:\Revature\oharak_Project1\PizzaLocation\PizzaLocation.Library\bin\Debug\netcoreapp2.1\PizzaLocation.Library.runtimeconfig.dev.json
